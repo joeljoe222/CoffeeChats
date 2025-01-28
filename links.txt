@@ -3,3 +3,6 @@ https://www.youtube.com/watch?v=Hl7diL7SFw8&list=PLpPqplz6dKxUaZ630TY1BFIo5nP-_x
 
 how i integrated sql without using mysqlworkbench 
 https://www.youtube.com/watch?v=Hej48pi_lOc&ab_channel=SamMeech-Ward
+
+Build a web app with React, Express, Mysql, S3, Heroku | Live Lesson Demo
+https://www.youtube.com/watch?v=45nWsmBxT18&ab_channel=SamMeech-Ward
